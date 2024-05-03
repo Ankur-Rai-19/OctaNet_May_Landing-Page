@@ -13,7 +13,7 @@ This is a simple landing page for a travel agency built using HTML and CSS. It f
 - Navigation bar with links to different sections of the page
 - Sections for showcasing destinations, services, and customer testimonials
 
-## Site is Live:-
+## Site is Live:- https://travelx-may.vercel.app/
 
 ## SOME SCREENSHOTS:
 
